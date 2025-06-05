@@ -1,0 +1,1 @@
+# Qwen2 Generator\n\nThis repository implements text generation for the Qwen2 model. The model implementation can be found in modeling_qwen.py.\n\n## Files\n\n- modeling_qwen.py: Contains the Qwen2ForCausalLM model implementation
